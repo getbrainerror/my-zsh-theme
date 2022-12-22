@@ -1,4 +1,4 @@
-# my-zsh-theme (exept its just my zshrc)
+# my-zsh-theme (except its just my zshrc)
 Makes zsh somewhat usable (for me)
 
 As i highly dislike the style of manjaros zsh theme (or most zsh themes), i tried to make it look more bash like.
