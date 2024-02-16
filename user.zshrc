@@ -12,6 +12,11 @@ zstyle ':completion:*' menu select
 PROMPT='%F{green}[%n@%m]%f %F{blue}%B%~%b%f %(!.#.$) '
 RPROMPT='[%F{yellow}%?%f]'
 
+# aliase
+
+# please rerun last command with root
+alias please='sudo $(fc -ln -1)'
+
 # key bindings
 typeset -g -A key
 
