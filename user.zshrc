@@ -3,6 +3,9 @@
 ## autosuggestions
 source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 
+## zsh-syntax-hightlighting
+source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.z>
+
 ## autocomplete
 autoload -Uz compinit
 compinit
